@@ -1,11 +1,8 @@
 ---
-id: '1'
+id: "1"
 title: Nulla suscipit
-description: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
-  lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget
-  tincidunt.
-price: '49.40'
+description: This is a great little plant. It's also a good example of the NetlifyHost CMS.
+price: "49.40"
 order: 1
 default_thumbnail_image: images/plant1.jpg
 default_original_image: images/plant1-lg.jpg
