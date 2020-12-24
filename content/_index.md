@@ -52,9 +52,5 @@ sections:
       type: action
       title: Discover
       url: /store
-  - type: faq_section
-    questions:
-      - question: How Much Are Plants?
-        answer: They are from 50 - 100 per item.
 layout: home
 ---
